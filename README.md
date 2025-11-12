@@ -76,3 +76,155 @@ plt.ylabel("Predicted Price")
 plt.title("Actual vs Predicted House Prices")
 plt.show()
 
+The scatter plot shows most predictions close to the diagonal line → good accuracy.
+
+Outliers represent extreme cases not perfectly captured by the model.
+
+💡 Key Insights
+
+Area is the strongest determinant of price.
+
+Furnishing and air conditioning significantly increase property value.
+
+More than 4 bedrooms do not proportionally raise prices — diminishing returns.
+
+Parking spaces provide affordable value improvements.
+
+🚀 Future Enhancements
+
+Use Random Forest Regressor or Multiple Linear Regression for improved results.
+
+Add location-based features (e.g., city, distance to main road).
+
+Apply feature scaling and polynomial regression for nonlinear trends.
+
+Deploy as a Streamlit web app for real-time predictions.
+
+🛠️ Tools & Libraries
+
+🐍 Python
+
+🔢 NumPy
+
+🧮 Pandas
+
+📊 Matplotlib
+
+🎨 Seaborn
+
+🤖 Scikit-learn
+
+🏁 Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to predict real estate prices effectively.
+With an accuracy of around 87%, the model provides meaningful insights for property valuation and investment decisions.
+
+📎 Author
+
+👤 Adithya D
+💬 Data Enthusiast | Python | Data Analysis | Machine Learning
+
+📫 Connect with me on LinkedIn:The scatter plot shows most predictions close to the diagonal line → good accuracy.
+
+Outliers represent extreme cases not perfectly captured by the model.
+
+💡 Key Insights
+
+Area is the strongest determinant of price.
+
+Furnishing and air conditioning significantly increase property value.
+
+More than 4 bedrooms do not proportionally raise prices — diminishing returns.
+
+Parking spaces provide affordable value improvements.
+
+🚀 Future Enhancements
+
+Use Random Forest Regressor or Multiple Linear Regression for improved results.
+
+Add location-based features (e.g., city, distance to main road).
+
+Apply feature scaling and polynomial regression for nonlinear trends.
+
+Deploy as a Streamlit web app for real-time predictions.
+
+🛠️ Tools & Libraries
+
+🐍 Python
+
+🔢 NumPy
+
+🧮 Pandas
+
+📊 Matplotlib
+
+🎨 Seaborn
+
+🤖 Scikit-learn
+
+🏁 Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to predict real estate prices effectively.
+With an accuracy of around 87%, the model provides meaningful insights for property valuation and investment decisions.
+
+📎 Author
+
+👤 Adithya D
+💬 Data Enthusiast | Python | Data Analysis | Machine Learning
+
+📫 Connect with me on LinkedIn :The scatter plot shows most predictions close to the diagonal line → good accuracy.
+
+Outliers represent extreme cases not perfectly captured by the model.
+
+💡 Key Insights
+
+Area is the strongest determinant of price.
+
+Furnishing and air conditioning significantly increase property value.
+
+More than 4 bedrooms do not proportionally raise prices — diminishing returns.
+
+Parking spaces provide affordable value improvements.
+
+🚀 Future Enhancements
+
+Use Random Forest Regressor or Multiple Linear Regression for improved results.
+
+Add location-based features (e.g., city, distance to main road).
+
+Apply feature scaling and polynomial regression for nonlinear trends.
+
+Deploy as a Streamlit web app for real-time predictions.
+
+🛠️ Tools & Libraries
+
+🐍 Python
+
+🔢 NumPy
+
+🧮 Pandas
+
+📊 Matplotlib
+
+🎨 Seaborn
+
+🤖 Scikit-learn
+
+🏁 Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to predict real estate prices effectively.
+With an accuracy of around 87%, the model provides meaningful insights for property valuation and investment decisions.
+
+📎 Author
+
+👤 Adithya D
+💬 Data Enthusiast | Python | Data Analysis | Machine Learning
+
+📫 Connect with me on LinkedIn :www.linkedin.com/in/adithya-d30
+
+⭐ Feel free to star this repo if you found it helpful!
+
+🏷️ Tags
+
+#Python #DataAnalysis #MachineLearning #LinearRegression #EDA #Matplotlib #Pandas #Seaborn #Kaggle #PortfolioProject
+
