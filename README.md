@@ -80,7 +80,7 @@ The scatter plot shows most predictions close to the diagonal line → good accu
 
 Outliers represent extreme cases not perfectly captured by the model.
 
-💡 Key Insights
+### 💡 Key Insights
 
 Area is the strongest determinant of price.
 
@@ -90,7 +90,7 @@ More than 4 bedrooms do not proportionally raise prices — diminishing returns.
 
 Parking spaces provide affordable value improvements.
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 Use Random Forest Regressor or Multiple Linear Regression for improved results.
 
@@ -100,21 +100,21 @@ Apply feature scaling and polynomial regression for nonlinear trends.
 
 Deploy as a Streamlit web app for real-time predictions.
 
-🛠️ Tools & Libraries
+### 🛠️ Tools & Libraries
 
-🐍 Python
+**🐍 Python**
 
-🔢 NumPy
+**🔢 NumPy**
 
-🧮 Pandas
+**🧮 Pandas**
 
-📊 Matplotlib
+**📊 Matplotlib**
 
-🎨 Seaborn
+**🎨 Seaborn**
 
-🤖 Scikit-learn
+**🤖 Scikit-learn**
 
-🏁 Conclusion
+### 🏁 Conclusion
 
 This project demonstrates how data analysis and machine learning can be used to predict real estate prices effectively.
 With an accuracy of around 87%, the model provides meaningful insights for property valuation and investment decisions.
@@ -128,7 +128,7 @@ With an accuracy of around 87%, the model provides meaningful insights for prope
 
 Outliers represent extreme cases not perfectly captured by the model.
 
-💡 Key Insights
+### 💡 Key Insights
 
 Area is the strongest determinant of price.
 
